@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-『Androidアプリ開発の教科書』
-第14章
-暗黙的インテントサンプル
 
-@author Shinzo SAITO
-
-res/values/string.xmlファイル
--->
 <resources>
 	<string name="app_name">暗黙的インテントサンプル</string>
 	<string name="bt_map_search">地図検索</string>
